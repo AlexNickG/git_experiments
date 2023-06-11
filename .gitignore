@@ -1,0 +1,3 @@
+logs/*.log
+!log2.log
+!log3.log
