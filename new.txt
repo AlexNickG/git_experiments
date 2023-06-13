@@ -1,1 +1,5 @@
 test file
+
+Added new string remotley
+
+Added new string remotley without conflict
