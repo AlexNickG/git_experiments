@@ -1,6 +1,6 @@
 test file
 
-Added new string
+Added new string with merge
 
 Added new string remotley without conflict
 
