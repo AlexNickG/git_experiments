@@ -3,3 +3,5 @@ test file
 Added new string
 
 Added new string remotley without conflict
+
+also one new string
