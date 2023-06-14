@@ -6,5 +6,4 @@ Added new string remotley without conflict
 
 also one new string
 
-changes in new branch
-
+- deleted string 'changes in new branch'
