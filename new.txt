@@ -8,4 +8,3 @@ also one new string
 
 changes in new branch
 
-added changes
