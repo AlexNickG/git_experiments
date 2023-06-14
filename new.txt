@@ -1,6 +1,6 @@
 test file
 
-Added new string master
+Added new string
 
 Added new string remotley without conflict
 
